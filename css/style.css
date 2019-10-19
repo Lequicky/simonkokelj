@@ -18,24 +18,25 @@ body {
 }
 
 .carousel-image-1 {
-  background: url('../img/image1.jpg');
+  background: url('../img/simon/prevoz_debel.jpg');
   background-size: cover;
+
 }
 
 .carousel-image-2 {
-  background: url('../img/image2.jpg');
+  background: url('../img/simon/spravilo_vej.jpg');
   background-size: cover;
 }
 
 .carousel-image-3 {
-  background: url('../img/image3.jpg');
+  background: url('../img/simon/spravilo_vej.jpg');
   background-size: cover;
 }
 
 #home-heading {
   position: relative;
   min-height: 200px;
-  background: url('../img/lights.jpg');
+  background: url('../img/simon/zimsko_delo.jpg');
   background-attachment: fixed;
   background-repeat: no-repeat;
   text-align: center;
@@ -68,7 +69,7 @@ body {
 
 #page-header {
   height: 200px;
-  background: url('../img/image1.jpg');
+  background: url('../img/simon/zicnica.jpg');
   background-position: 0 -360px;
   background-attachment: fixed;
   color: #fff;
@@ -92,6 +93,14 @@ body {
 #faq .card-body,
 #faq .card-header {
   background: #333;
+}
+
+.bg-danger {
+  background-color: #0b5200 !important;
+}
+
+.bg-dark  {
+  background-color: #636363 !important;
 }
 
 #main-footer {
